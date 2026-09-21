@@ -1,0 +1,51 @@
+body {
+    background-color: beige;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    color:black;
+}
+
+h1 {
+    font-size: 32px;
+    color:cornflowerblue;
+}
+
+h2 {
+    font-size: 18px;
+    color:brown;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.biodata {
+    text-align: left;
+}
+
+a:hover {
+    color: red;
+}
+
+input {
+    padding: 10px 25px;
+    width: 200px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 25px;
+    background-color:green;
+    color:white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color:grey;
+}
+
+#hasil {
+    margin-top: 30px;
+}
